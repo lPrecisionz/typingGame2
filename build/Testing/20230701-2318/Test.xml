@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-make"
+	BuildStamp="20230701-2318-Experimental"
+	Name="LAPTOP-SKBHMR4I"
+	Generator="ctest-3.27.0-rc4"
+	CompilerName="C:/w64devkit/bin/g++.exe"
+	CompilerVersion="13.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-SKBHMR4I"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="6"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="6854"
+	TotalPhysicalMemory="3910"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1896"
+	>
+	<Testing>
+		<StartDateTime>Jul 01 20:40 E. South America Standard Time</StartDateTime>
+		<StartTestTime>1688254805</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 01 20:40 E. South America Standard Time</EndDateTime>
+		<EndTestTime>1688254805</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

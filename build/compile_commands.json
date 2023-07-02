@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/pedro/typingGame/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/typingGame.dir/includes_CXX.rsp -g -o CMakeFiles/typingGame.dir/src/main.cpp.obj -c C:/Users/pedro/typingGame/src/main.cpp",
+  "file": "C:/Users/pedro/typingGame/src/main.cpp",
+  "output": "CMakeFiles/typingGame.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/pedro/typingGame/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/typingGame.dir/includes_CXX.rsp -g -o CMakeFiles/typingGame.dir/src/game.cpp.obj -c C:/Users/pedro/typingGame/src/game.cpp",
+  "file": "C:/Users/pedro/typingGame/src/game.cpp",
+  "output": "CMakeFiles/typingGame.dir/src/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/pedro/typingGame/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/typingGame.dir/includes_CXX.rsp -g -o CMakeFiles/typingGame.dir/src/text.cpp.obj -c C:/Users/pedro/typingGame/src/text.cpp",
+  "file": "C:/Users/pedro/typingGame/src/text.cpp",
+  "output": "CMakeFiles/typingGame.dir/src/text.cpp.obj"
+}
+]
